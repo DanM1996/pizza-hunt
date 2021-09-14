@@ -4,7 +4,7 @@ const CommentShema = new Schema ({
     writtenBy: {
         type: String
     },
-    commendBody: {
+    commentBody: {
         type: String
     },
     createdAt: {
